@@ -49,7 +49,6 @@ Se você não tiver feito, sem problemas, aqui você ja vai encontrar o comporta
 - Sua pokedex deve ter dois botões contendo os tipos Fire e Psychic. A partir dessa seleção, a pokedex deve circular somente pelos pokémons daquele tipo. Quando a página carrega, um desses filtros deve estar selecionado.
 
 #### Bônus
-
 Agora que você pegou todos os pokémons, consegue pegar todos os bônus?! Não é fácil completar todos! Faça quantos conseguir.
 
 - Separe os estilos de CSS por componente, fazendo um arquivo .css para cada.
